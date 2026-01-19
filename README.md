@@ -15,7 +15,7 @@ A small React todo app with a dark red-accent UI, supporting creation, validatio
 - Priority badges (low / medium / high) for quick scanning 
 - Dark-themed interface with red accent styling
 
-🛠️ Tech Stack
+## Tech Stack
 - React (functional components + hooks)
 - Custom CSS (no UI framework)
 - Optional localStorage integration for persistence (via useEffect pattern)

@@ -67,4 +67,4 @@ export function NewTodoForm({ onSubmit }) {
             <button className='btn'>Add</button>
         </form>
     )
-};
+}

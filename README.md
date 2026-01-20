@@ -34,7 +34,7 @@ A small React todo app with a dark red-accent UI, supporting creation, validatio
 1. Clone the repository:
    ```bash
    https://github.com/Stephani-e/ToDo-List.git
-   cd Quiz-App
+   cd ToDo-List
 2. Install Dependencies:
    ```bash
    npm install

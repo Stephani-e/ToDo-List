@@ -40,4 +40,4 @@ A small React todo app with a dark red-accent UI, supporting creation, validatio
    npm install
 3. Start the development server
    ```bash
-   npm start
+   npm run dev

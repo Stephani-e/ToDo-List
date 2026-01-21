@@ -1,4 +1,4 @@
-# 📝 React Todo App
+# React Todo App
 
 A small React todo app with a dark red-accent UI, supporting creation, validation, completion, deletion, and a live summary of tasks, with optional persistence via localStorage.
 

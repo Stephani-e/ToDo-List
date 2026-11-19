@@ -4,7 +4,7 @@ A small React todo app with a dark red-accent UI, supporting creation, validatio
 
 ## Demo
 
-🔗 **Live Demo:** https://to-do-list-nine-alpha-55.vercel.app/
+🔗 **Live Demo:** https://to-do-list-sga.vercel.app/
 
 ## Features
 
